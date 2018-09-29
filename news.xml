@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CATALOG>
+  <NEWS>
+    <ITEM>
+      <NEWS_CONTENT>
+        The Suleyman Demirel University is a secular higher educational institution located near the city of Almaty, Kazakhstan.
+        The university was officially opened in 1996 by the President of the Republic of Kazakhstan, Nursultan Nazarbayev, and
+        the former President of Turkey, Suleiman Demirel. In 2011, the university building moved to a new, modernized "SMART-Campus",
+        which is fully equipped with the latest technology for productive and comfortable learning.
+      </NEWS_CONTENT>
+      <ID>news_box1</ID>
+      <SRC>my_image/SDU2.jpg</SRC>
+    </ITEM>
+    <ITEM>
+      <NEWS_CONTENT>
+        The World Economic Forum recently issued its annual Global
+        Information Technology Report 2016, featuring the latest data
+        on Networked Readiness Index, which assesses the factors,
+         policies and institutions that enable a country to fully
+          leverage information and communication technologies for
+           increased competitiveness and well-being.
+        This year, countries were evaluated in accordance with
+        four categories of indicators: the general environment to
+        create and use technologies; network readiness in terms of
+         the availability of Information and Communication Technologies
+         (ICT) infrastructure; the use of new technologies by the government,
+          private sector and individuals; economic and social impact of new
+          technologies. Three leaders of the rating from the previous year
+          retained their positions – Singapore, Finland and Sweden. Kazakhstan
+          holds the leading position among the Commonwealth of Independent
+          States (CIS countries) and heads a regional rating. According to
+          the development of legislation in the field of ICT, Kazakhstan
+           ranked 38th this year, which is 10 levels higher than in 2015.
+            In comparison to the past year, the country went 15 positions
+            up concerning internet access in schools, reaching the 41st place.
+      </NEWS_CONTENT>
+      <ID>news_box2</ID>
+      <SRC>my_image/hardware.jpg</SRC>
+    </ITEM>
+    <ITEM>
+      <NEWS_CONTENT>
+        Famous people who graduated from our university
+        Yevgeny Shutilin - head of the Google community
+        in Kazakhstan GTUG Kazakhstan; Amirkhan Omarov
+        - president of the club of intellectual youth Almaty
+        Trends; Rasul Mashurov - head of the department of
+        "Business Development Department in SDU"; Tair Sabyrgaliyev,
+        Asan Barzu, Asanov Daniyar - founders of BEE Software LLP.
+      </NEWS_CONTENT>
+      <ID>news_box3</ID>
+      <SRC>my_image/famous_people.jpg</SRC>
+    </ITEM>
+    <ITEM>
+      <NEWS_CONTENT>
+        Employment of computer programmers is projected to decline 8 percent from 2016 to 2026.
+        Computer programming can be done from anywhere in the world,
+        so companies sometimes hire programmers in countries where wages
+        are lower. This ongoing trend is projected to limit employment growth
+        for computer programmers in the United States. However, the high costs
+        associated with managing projects given to overseas programmers sometimes
+        offsets the savings from the lower wages, causing some companies to bring
+        back or keep programming jobs in the United States.
+        Job Prospects
+        Job prospects will be best for programmers who have a bachelor�s
+        degree or higher and knowledge of a variety of programming languages.
+        Keeping up to date with the newest programming tools will also improve
+        job prospects.
+      </NEWS_CONTENT>
+      <ID>news_box4</ID>
+      <SRC>my_image/programming.jpg</SRC>
+    </ITEM>
+  </NEWS>
+</CATALOG>

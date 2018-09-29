@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<title>SDU Career (site where Sdudents can find job or create CV)</title>
+		<meta name="description" content="">
+		<meta name="author" content="">
+		<link rel="icon" href="../../favicon.ico">
+		<link rel="stylesheet" href="bootstrap-3.3.7/dist/css/bootstrap.min.css">
+		<link href="bootstrap-3.3.7/docs/assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+
+		<link rel="stylesheet" type="text/css" href="my_css/style.css">
+	  <!-- <script src="bootstrap-3.3.7/dist/js/bootstrap.min.js"></script> -->
+    <script src="jquery-3.2.1.min.js"></script>
+    <script src="my_js/changing_the_nav_status_jquery.js"></script>
+		<script type="text/javascript" src="my_js/action.js"></script>
+    <script type="text/javascript" src="my_js/news_get_the_data.js"></script>
+		<!-- <script type="text/javascript" src="my_js/sticky_nav.js"></script> -->
+  </head>
+  <body>
+
+    <div class="container-fluid my_nav_top">
+			<div class="general_container">
+					<div class="logo_box">
+						<img src="my_image/Logo_of_Suleymen_Demirel_University_Kazakhstan.png" alt="SDUCareerLogo" width="70" height="48">
+					</div>
+					<div class="search_jobs_box">
+						<form class="form-inline my_form">
+							<div class="input-group">
+								<div class="btn-group">
+									<input type="text" class="form-control" size="50" placeholder="Жұмыс іздеу.." required>
+	    						<button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">Бос Орын <span class="caret"></span></button>
+							    <ul class="dropdown-menu" role="menu">
+							      <li><a href="#">Вакансии</a></li>
+							      <li><a href="#">Резюме</a></li>
+										<li><a href="#">Компании</a></li>
+							    </ul>
+	  						</div>
+								<div class="input-group-btn">
+									<button type="button" class="btn btn-danger">Іздеу</button>
+								</div>
+							</div>
+						</form>
+					</div>
+			</div>
+		</div>
+
+		<nav class="navbar navbar-default navbar-static-top my_nav">
+			<div class="container">
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					<a class="navbar-brand" href="index.html">SDUCAREER</a>
+				</div>
+				<div id="navbar" class="navbar-collapse collapse">
+					<ul id="navbar_ul_1" class="nav navbar-nav">
+						<li><a href="index.html">Home</a></li>
+						<li><a href="searching_work.html">Search for work</a></li>
+						<li><a href="help.html">Help</a></li>
+					</ul>
+					<ul class="nav navbar-nav navbar-right">
+						<li class="active"><a href="../navbar/">Default<span class="sr-only">(current)</span></a></li>
+						<li><a href="./">User Page</a></li>
+						<li><a href="../navbar-fixed-top/"></a></li>
+					</ul>
+				</div>
+			</div>
+		</nav>
+
+    <div class="container news_selected_box_container">
+      <div class="nsbc_image_box text-center">
+          <img id="nsbc_image_of_the_box" src="" width="500px" alt="">
+      </div>
+      <div class="nsbc_paragraph_box">
+        <p id="nsbc_paragraph_of_the_box"></p>
+      </div>
+
+    </div>
+
+
+
+    <script src="bootstrap-3.3.7/dist/js/bootstrap.min.js"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="bootstrap-3.3.7/docs/assets/js/ie10-viewport-bug-workaround.js"></script>
+
+  </body>
+</html>

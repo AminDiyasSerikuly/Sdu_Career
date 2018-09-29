@@ -1,0 +1,13 @@
+
+
+.vac_inf_general_container {
+  height: 1000px;
+  margin-top: 50px;
+  border: 1px solid #dfdfdf;
+}
+
+.vac_inf_sal_loc_req_box {
+  width: 100%;
+  height: 100px;
+  background: #dfdfdf;
+}

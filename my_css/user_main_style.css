@@ -1,0 +1,38 @@
+.logo_box {
+  margin-left: 300px;
+}
+
+.search_jobs_box {
+  float: right;
+  width: 80%;
+  height: 50px;
+  position: relative;
+  bottom: 50px;
+}
+
+.my_form {
+  padding: 10px 10px;
+  margin-left: 150px;
+}
+
+.user_page_profile_inf {
+  width: 200px;
+  float: right;
+  position: relative;
+}
+
+.image_avatar_rounded {
+  border-radius: 50%;
+}
+
+
+.user_page_main_cont {
+  margin-top: 50px;
+  padding: 10px;
+  height: auto;
+  background: steelblue;
+}
+
+.my_row {
+  margin: 0px;
+}
